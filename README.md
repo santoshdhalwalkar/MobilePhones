@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c07eb253-1ee6-4a75-b50c-750805be821f)Project Description: Your primary goal is to develop a predictive model for mobile phone prices. The objective is to build a predictive model that can accurately estimate the price of a mobile phone based on its features. To achieve this, you'll perform a feature extraction analysis to identify the most influential features.
+Project Description: Your primary goal is to develop a predictive model for mobile phone prices. The objective is to build a predictive model that can accurately estimate the price of a mobile phone based on its features. To achieve this, you'll perform a feature extraction analysis to identify the most influential features.
 Contents
 Data Exploration
 Uni-Variate Analysis and bivariate scatter plot Analysis
